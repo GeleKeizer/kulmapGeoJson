@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "200A",
-        "floors": "0,1,2,3,4"
+        "floors": "0,1,2,3,4,5"
       },
       "geometry": {
         "type": "Polygon",
