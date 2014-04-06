@@ -203,7 +203,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MTM"
+        "name": "MTM",
+        "floors": "-1,0,1,2,3"
       },
       "geometry": {
         "type": "Polygon",
