@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "200A",
-        "floors": "0,1,2,3,4,5"
+        "floors": "0,1,2,3,4,5",
+        "lonlat": "4.678796,50.864147"
       },
       "geometry": {
         "type": "Polygon",
@@ -39,7 +40,8 @@
       "type": "Feature",
       "properties": {
         "name": "200D",
-        "floors": "-1,0,1,2,3,4,5,6,7"
+        "floors": "-1,0,1,2,3,4,5,6,7",
+        "lonlat": "4.677184,50.862839"
       },
       "geometry": {
         "type": "Polygon",
@@ -137,7 +139,8 @@
       "type": "Feature",
       "properties": {
         "name": "200F",
-        "floors": "-1,0,1,2,3,4"
+        "floors": "-1,0,1,2,3,4",
+        "lonlat": "4.674024,50.863194"
       },
       "geometry": {
         "type": "Polygon",
@@ -205,7 +208,8 @@
       "type": "Feature",
       "properties": {
         "name": "MTM",
-        "floors": "-1,0,1,2,3"
+        "floors": "-1,0,1,2,3",
+        "lonlat": "4.684050,50.860731"
       },
       "geometry": {
         "type": "Polygon",
