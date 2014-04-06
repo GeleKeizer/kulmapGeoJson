@@ -170,7 +170,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "KAST"
+        "name": "KAST",
+        "floors": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -253,7 +254,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ESAT"
+        "name": "ESAT",
+        "floors": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -290,7 +292,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "WTK"
+        "name": "WTK",
+        "floors": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -339,7 +342,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LAND"
+        "name": "LAND",
+        "floors": 0
       },
       "geometry": {
         "type": "Polygon",
