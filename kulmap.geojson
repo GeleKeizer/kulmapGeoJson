@@ -7,7 +7,7 @@
         "name": "200A",
         "floors": "0,1,2,3,4,5",
         "lonlat": "4.678796,50.864147",
-        "tags": "computerwetenschappen,computer,cw,cs"
+        "tags": "computerwetenschappen,cw,cs,departement,dept"
       },
       "geometry": {
         "type": "Polygon",
@@ -43,7 +43,7 @@
         "name": "200D",
         "floors": "-1,0,1,2,3,4,5,6,7",
         "lonlat": "4.677184,50.862839",
-        "tags": "natuurkunde,navorsing,fysica,onderzoek"
+        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut"
       },
       "geometry": {
         "type": "Polygon",
@@ -143,7 +143,7 @@
         "name": "KAST",
         "floors": "0,M0,1,M1,2,3,4,5",
         "lonlat": "4.683156,50.863428",
-        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen"
+        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept"
       },
       "geometry": {
         "type": "Polygon",
@@ -179,7 +179,7 @@
         "name": "MTM",
         "floors": "-1,0,1,2,3",
         "lonlat": "4.684050,50.860731",
-        "tags": "materiaalkunde,metallurgie,metaalkunde"
+        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept"
       },
       "geometry": {
         "type": "Polygon",
@@ -231,7 +231,7 @@
         "name": "ELEC",
         "floors": "-1,-M1,0,1,2,3,4,5,6",
         "lonlat": "4.686305,50.862293",
-        "tags": "esat,elektrotechniek,electrical,electronics"
+        "tags": "esat,elektrotechniek,electrical,electronics,departement,dept"
       },
       "geometry": {
         "type": "Polygon",
@@ -271,7 +271,7 @@
         "name": "C300",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.680728,50.860793",
-        "tags": "mechanica,mechanics,werktuigkunde"
+        "tags": "mechanica,mechanics,werktuigkunde,departement,dept"
       },
       "geometry": {
         "type": "Polygon",
