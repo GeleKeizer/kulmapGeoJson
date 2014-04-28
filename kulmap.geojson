@@ -7,7 +7,7 @@
         "name": "200A",
         "floors": "0,1,2,3,4,5",
         "lonlat": "4.678796,50.864147",
-        "tags": "computerwetenschappen,cw,cs,departement,dept"
+        "tags": "computerwetenschappen,cw,cs,departement,dept,computer"
       },
       "geometry": {
         "type": "Polygon",
@@ -43,7 +43,7 @@
         "name": "200D",
         "floors": "-1,0,1,2,3,4,5,6,7",
         "lonlat": "4.677184,50.862839",
-        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut"
+        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut,physics"
       },
       "geometry": {
         "type": "Polygon",
@@ -143,7 +143,7 @@
         "name": "KAST",
         "floors": "0,M0,1,M1,2,3,4,5",
         "lonlat": "4.683156,50.863428",
-        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept"
+        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture"
       },
       "geometry": {
         "type": "Polygon",
@@ -179,7 +179,7 @@
         "name": "MTM",
         "floors": "-1,0,1,2,3",
         "lonlat": "4.684050,50.860731",
-        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept"
+        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept,materials"
       },
       "geometry": {
         "type": "Polygon",
@@ -323,7 +323,7 @@
         "name": "LAND",
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.687702,50.863752",
-        "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw"
+        "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience"
       },
       "geometry": {
         "type": "Polygon",
