@@ -7,7 +7,15 @@
         "name": "200A",
         "floors": "0,1,2,3,4,5",
         "lonlat": "4.678796,50.864147",
-        "tags": "computerwetenschappen,cw,cs,departement,dept,computer"
+        "tags": "computerwetenschappen,cw,cs,departement,dept,computer",
+        "rooms": {
+          "0": "00.144,00.225",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -43,7 +51,8 @@
         "name": "200D",
         "floors": "-1,0,1,2,3,4,5,6,7",
         "lonlat": "4.677184,50.862839",
-        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut,physics"
+        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut,physics",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -143,7 +152,8 @@
         "name": "KAST",
         "floors": "0,M0,1,M1,2,3,4,5",
         "lonlat": "4.683156,50.863428",
-        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture"
+        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -179,7 +189,8 @@
         "name": "MTM",
         "floors": "-1,0,1,2,3",
         "lonlat": "4.684050,50.860731",
-        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept,materials"
+        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept,materials",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -231,7 +242,8 @@
         "name": "ELEC",
         "floors": "-1,-M1,0,1,2,3,4,5,6",
         "lonlat": "4.686305,50.862293",
-        "tags": "esat,elektrotechniek,electrical,electronics,departement,dept"
+        "tags": "esat,elektrotechniek,electrical,electronics,departement,dept",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -271,7 +283,8 @@
         "name": "C300",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.680728,50.860793",
-        "tags": "mechanica,mechanics,werktuigkunde,departement,dept"
+        "tags": "mechanica,mechanics,werktuigkunde,departement,dept",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -323,7 +336,8 @@
         "name": "LAND",
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.687702,50.863752",
-        "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience"
+        "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
@@ -403,7 +417,8 @@
         "name": "VHI",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.707514,50.874419",
-        "tags": "van,den,heuvel,instituut"
+        "tags": "van,den,heuvel,instituut",
+        "rooms": {}
       },
       "geometry": {
         "type": "Polygon",
