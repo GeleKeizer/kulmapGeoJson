@@ -52,7 +52,17 @@
         "floors": "-1,0,1,2,3,4,5,6,7",
         "lonlat": "4.677184,50.862839",
         "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut,physics",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -153,7 +163,16 @@
         "floors": "0,M0,1,M1,2,3,4,5",
         "lonlat": "4.683156,50.863428",
         "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture",
-        "rooms": {}
+        "rooms": {
+          "0": "",
+          "M0": "",
+          "1": "",
+          "M1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -190,7 +209,13 @@
         "floors": "-1,0,1,2,3",
         "lonlat": "4.684050,50.860731",
         "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept,materials",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -243,7 +268,17 @@
         "floors": "-1,-M1,0,1,2,3,4,5,6",
         "lonlat": "4.686305,50.862293",
         "tags": "esat,elektrotechniek,electrical,electronics,departement,dept",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "-M1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -284,7 +319,15 @@
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.680728,50.860793",
         "tags": "mechanica,mechanics,werktuigkunde,departement,dept",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -337,7 +380,14 @@
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.687702,50.863752",
         "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -418,7 +468,15 @@
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.707514,50.874419",
         "tags": "van,den,heuvel,instituut",
-        "rooms": {}
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
