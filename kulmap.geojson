@@ -523,7 +523,7 @@
       "properties": {
         "name": "Dierkunde",
         "floors": "-1,0,1,2,3,4",
-        "lonlat": "",
+        "lonlat": "4.70103532075882,50.87597290543605",
         "tags": "instituut,voor,dierkunde"
       },
       "geometry": {
