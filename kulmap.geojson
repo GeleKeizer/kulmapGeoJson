@@ -7,7 +7,7 @@
         "name": "200A (Departement Computerwetenschappen)",
         "floors": "0,1,2,3,4,5",
         "lonlat": "4.678796,50.864147",
-        "tags": "computerwetenschappen,cw,cs,departement,dept,computer,informatica",
+        "tags": "200a,computerwetenschappen,cw,cs,departement,dept,computer,informatica",
         "rooms": {
           "0": "Secretariaat (00.02)|secretariaat|,00.03,00.05,00.108,00.109,00.11,00.112,Computerleslokaal (00.124)|computerleslokaal|,Seminarielokaal (00.144)|seminarielokaal|,00.152,00.18,00.19,Auditorium Computerwetenschappen (00.225)|auditorium|computerwetenschappen|,SOL Z (00.25)|sol|z|,SOL N (00.26)|sol|n|,00.263,00.65",
           "1": "01.03,01.06,01.09,01.14,01.22,01.17,01.25,01.26,01.33,01.34,01.42,01.41,01.50,01.49,01.64,01.66,01.65,01.69,01.101,01.103,01.112,01.118,01.113,01.115,01.122,01.130,01.138,01.144,01.152,01.160,01.168,01.184,01.183,01.181,01.167,01.159,01.143",
@@ -51,7 +51,7 @@
         "name": "200D (Instituut Natuurkunde navorsing)",
         "floors": "-1,0,1,2,3,4,5,6,7",
         "lonlat": "4.677184,50.862839",
-        "tags": "natuurkunde,navorsing,fysica,onderzoek,instituut,physics",
+        "tags": "200d,natuurkunde,navorsing,fysica,onderzoek,instituut,physics",
         "rooms": {
           "0": "00.00,00.02,00.03,00.05,00.06,00.07,00.08,00.107,00.112,00.114,00.115,00.117,00.118,00.12,00.13,00.138,00.140,00.15,00.18,00.20,00.21,00.23,00.26,00.27,00.29,00.31,00.36,00.37,00.39,00.39A,00.40,00.41,00.43,00.45,00.47,00.48A,00.48B,00.49,00.50,00.62,00.65,00.66,00.67,00.70,00.72,00.73,00.74,00.74A,00.74C,00.75,00.79,00.80,00.80A,00.81,00.84,00.84A,00.86,00.86A,00.87,00.89,00.90,00.91,00.92,00.93,00.95,00.96,00.97",
           "1": "01.01,01.02,01.04,01.06,01.07,01.08,01.09,01.10,01.11,01.13,01.15,01.18,01.19,01.20,01.21,01.22,01.23,01.26,01.28,01.31,Cafetaria (01.32)|cafetaria|,01.36,01.37,01.38,01.40,01.41,01.43,01.44,01.45,01.47,01.48,01.62,01.65,01.66,01.67,01.79,01.80,01.81,01.84A,01.84B,01.85,01.92,01.93,01.94,01.95,01.96",
@@ -162,7 +162,7 @@
         "name": "KAST (Kasteel Arenberg)",
         "floors": "0,M0,1,M1,2,3,4,5",
         "lonlat": "4.683156,50.863428",
-        "tags": "arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture",
+        "tags": "kast,arenbergkasteel,kasteel,arenberg,architectuur,ingenieurswetenschappen,departement,dept,castle,architecture",
         "rooms": {
           "0": "00.01,00.03,Fumoir (00.06)|fumoir|,00.12,00.16,Secretariaat (00.24)|secretariaat|,00.27,00.29,00.33,00.37,00.39,00.41,00.43,00.45,00.46,00.47,00.50,00.52,00.54,00.55,00.56,00.57,00.59,00.60,00.61,00.62,00.63,00.65,00.67,00.68,00.69,00.72,00.73,00.75,00.76,00.79,00.80",
           "1": "Prinsenzaal (geel salon) (01.01)|prinsenzaal|geel|salon|,Kapel (01.06)|kapel|,Auditorium (01.07)|auditorium|,01.12,01.14,01.15,01.16,01.19,01.24,01.29,01.33,01.46,01.47,01.50,Tekenzaal (01.52)|tekenzaal|,01.53,01.55,01.67,01.70,01.72,Princessenkamer (groen salon) (01.73)|princessenkamer|groen|salon|,Croyzaal (rood salon) 01.75|croyzaal|rood|salon|,Hertogenzaal (blauw salon) (01.81)|hertogenzaal|blauw|salon|,Balkon|balkon|",
@@ -208,7 +208,7 @@
         "name": "MTM (Departement Materiaalkunde)",
         "floors": "-1,0,1,2,3",
         "lonlat": "4.684050,50.860731",
-        "tags": "materiaalkunde,metallurgie,metaalkunde,departement,dept,materials",
+        "tags": "mtm,materiaalkunde,metallurgie,metaalkunde,departement,dept,materials",
         "rooms": {
           "0": "00.01,00.02,00.03,00.04,00.06,00.07,00.08,00.09,00.10,00.11,00.13,00.20,00.21,00.22,00.23,00.25,00.26,00.29,00.30,00.32,00.33,00.35,00.39,00.46,00.47,00.48,00.49,00.50,00.51,00.52,00.53,00.54,00.55,00.56,00.57,00.61",
           "1": "01.01,01.02,01.04,01.09,01.10,01.11,01.12,01.13,01.15,01.16,01.19,01.20,01.22,01.23,01.26,01.29,01.32,01.33,01.34,01.35,01.36,01.46,01.47,01.49,01.50,01.51,01.53,01.54,01.55,01.57,01.59",
@@ -267,7 +267,7 @@
         "name": "ELEC",
         "floors": "-1,-M1,0,1,2,3,4,5,6",
         "lonlat": "4.686305,50.862293",
-        "tags": "esat,elektrotechniek,electrical,electronics,departement,dept",
+        "tags": "elec,esat,elektrotechniek,electrical,electronics,departement,dept",
         "rooms": {
           "0": "00.02,00.03,00.04,00.05,00.06,00.07,00.08,00.16,00.23,00.24,00.27,00.28,00.36,00.48,00.54,00.55,00.57,00.60,00.62,00.68,00.69,Secretariaat (00.71)|secretariaat|,00.77,00.78,00.79,00.82B,00.87,00.90,00.91,00.92,00.93,00.94",
           "1": "01.02,01.03,01.04,01.05,01.06,01.07,01.08,01.09,01.10,01.12,01.13,01.16,01.17,01.18,01.19,01.20,01.21,01.22,01.23,01.35,01.36,01.38,01.39,01.40,01.47,01.48,01.50,01.53,01.54,01.55,01.57,01.58,01.59,01.60,01.62,01.65,01.66,01.67,01.68,01.69,01.70,01.78,01.78A,01.87,01.88,01.89,01.90,01.91,01.92,01.93",
@@ -318,7 +318,7 @@
         "name": "C300 (Instituut Mechanica)",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.680728,50.860793",
-        "tags": "mechanica,mechanics,werktuigkunde,departement,dept",
+        "tags": "c300,mechanica,mechanics,werktuigkunde,departement,dept",
         "rooms": {
           "0": "Auditorium A (00.03)|auditorium|a|,Auditorium B (00.08)|auditorium|b|,Auditorium C (Snoeys) (00.09)|auditorium|snoeys|c|,00.151,00.152,00.153,00.154,00.156,00.176,00.18,00.187,00.188,00.190,00.192,00.193,00.195,00.198,00.20,00.21,00.30,00.31,00.39,00.40,00.41,00.43,00.44,00.45,00.60,Auditorium E (00.77)|auditorium|e|,Auditorium D (00.81)|auditorium|d|,00.84,00.85",
           "1": "01.15,01.151,01.154,01.162,01.17,01.188,01.19,01.190,01.22,01.23,01.25,01.27,01.28,01.30,01.36,01.39,01.44,01.45,01.51,01.53,01.58,01.59",
@@ -379,7 +379,7 @@
         "name": "LAND (Instituut Landbouwkunde)",
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.687702,50.863752",
-        "tags": "landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience",
+        "tags": "land,landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience",
         "rooms": {
           "0": "00.01,00.04,00.06,00.09,00.10,00.103,00.104,00.11,00.12,00.13,00.15,00.17,00.18,00.208,00.21,00.210,00.213,Auditorium Jozef Heuts (00.215)|auditorium|jozef|heuts|,00.22,00.23,00.24,00.240,00.241,00.25,00.26,00.27,00.28,00.29,00.30,00.31,00.32,00.33,00.42,00.46,00.50,00.51,00.53,00.58,00.59,00.60,00.63,00.64,00.65,00.66,00.73,00.79,00.85,00.86,00.87,00.89,00.94,00.95,00.96",
           "1": "01.01,01.04,01.06,01.08,01.09,01.10,01.101,01.102,01.103,01.106,01.107,01.108,01.11,01.111,01.12,01.13,01.15,01.17,01.18,01.201,01.202,01.203,01.204,01.205,01.206,01.207,01.208,01.209,01.21,01.210,01.211,01.212,01.213,01.214,01.215,01.216,01.218,01.22,01.23,01.24,01.25,01.27,01.30,01.31,01.42,01.43,01.44,01.46A,01.46B,01.47,01.50,01.51,01.52,01.53,01.58,01.59,01.60,01.63,01.64,01.65,01.66,01.67,01.69,01.83,01.84,01.89,01.90,01.91,01.92,01.93,01.94,01.96,01.98",
@@ -467,7 +467,7 @@
         "name": "VHI (Van den Heuvel Instituut)",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.707514,50.874419",
-        "tags": "van,den,heuvel,instituut",
+        "tags": "vhi,van,den,heuvel,instituut",
         "rooms": {
           "0": "Auditorium Gaston Eyskens (00.10)|auditorium|gaston|eyskens|,00.15,00.18,00.19,00.20,00.21,00.22,00.24,00.29,00.30,00.33,00.40,00.41,00.44,00.46,00.48,00.49,00.53,00.54,Seminarielokaal (00.64)|seminarielokaal|,00.71,Bibliotheek Psychologische & Pedagogische wetenschappen|bib|bibliotheek|pedagogie|pedagogische|psychologie|psychologische|wetenschappen|sciences|psychology|pedagogy|library|lib|",
           "1": "01.01,01.02,01.03,01.04,01.05,01.06,01.07,01.11,01.14,01.15,01.16,01.17,01.19,01.20,01.21,01.22,01.23,01.24,01.25,01.26,01.27,01.28,01.29,01.35,01.36,01.40,01.41,01.42,01.43,01.44,01.45,01.46,01.47,01.48,01.49,01.50,01.52,01.53,01.54,01.64,01.65,01.68,01.71",
@@ -524,7 +524,7 @@
         "name": "ZI (Zoölogisch Instituut)",
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.70103532075882,50.87597290543605",
-        "tags": "instituut,voor,dierkunde,zoologisch,zoölogisch,biologie",
+        "tags": "zi,instituut,voor,dierkunde,zoologisch,zoölogisch,biologie",
         "rooms": {
           "0": "00.04,00.08,00.10,00.11,00.12,00.13,00.35,00.36,00.39,00.40,00.41,00.42,00.44,00.50,00.51,00.53,00.54,00.56,00.57,00.60,00.61,00.62,00.63,00.65,00.66,00.70,00.73,00.75,00.80,00.81,00.83,00.84,00.85,00.86,00.87",
           "1": "01.04,01.06,01.08,01.10,01.12,01.21,01.23,01.25,01.40,01.41,01.44,01.45,01.52,01.53,01.54,01.56,01.60,01.61,01.62,01.65,01.66,01.69,01.70,01.72,01.85,01.86,01.87,01.88",
@@ -613,7 +613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MTC3 (Augustinusvleugel en Grote Aula)",
+        "name": "MTC (Augustinusvleugel en Grote Aula)",
         "floors": "-1,0,1,M1,2,M2,3,4,5",
         "lonlat": "4.70238983631134,50.87648403071012",
         "tags": "mtc,maria,theresia,college,maria-theresia,grote,aula,de,augustinus,vleugel,augustinusvleugel,recht,rechten,romeins,rechtsgeschiedenis,informatica,rechtsmethodiek,icri,centrum",
