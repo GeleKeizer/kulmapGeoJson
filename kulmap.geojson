@@ -7,7 +7,7 @@
         "name": "200A",
         "floors": "0,1,2,3,4,5",
         "lonlat": "4.678796,50.864147",
-        "tags": "computerwetenschappen,cw,cs,departement,dept,computer",
+        "tags": "computerwetenschappen,cw,cs,departement,dept,computer,informatica",
         "rooms": {
           "0": "Secretariaat (00.02)|secretariaat|,00.03,00.05,00.108,00.109,00.11,00.112,Computerleslokaal (00.124)|computerleslokaal|,Seminarielokaal (00.144)|seminarielokaal|,00.152,00.18,00.19,Auditorium Computerwetenschappen (00.225)|auditorium|computerwetenschappen|,SOL Z (00.25)|sol|z|,SOL N (00.26)|sol|n|,00.263,00.65",
           "1": "01.03,01.06,01.09,01.14,01.22,01.17,01.25,01.26,01.33,01.34,01.42,01.41,01.50,01.49,01.64,01.66,01.65,01.69,01.101,01.103,01.112,01.118,01.113,01.115,01.122,01.130,01.138,01.144,01.152,01.160,01.168,01.184,01.183,01.181,01.167,01.159,01.143",
@@ -612,7 +612,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "MTC3",
+        "floors": "-1,0,1,M1,2,M2,3,4,5",
+        "lonlat": "4.70238983631134,50.87648403071012",
+        "tags": "mtc,maria,theresia,college,maria-theresia,grote,aula,de,augustinus,vleugel,augustinusvleugel,recht,rechten,romeins,rechtsgeschiedenis,informatica,rechtsmethodiek,icri,centrum"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
