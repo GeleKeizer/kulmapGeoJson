@@ -467,7 +467,7 @@
         "name": "VHI (Van den Heuvel Instituut)",
         "floors": "-1,0,1,2,3,4,5",
         "lonlat": "4.707514,50.874419",
-        "tags": "vhi,van,den,heuvel,instituut",
+        "tags": "vhi,van,den,heuvel,instituut,vandenheuvelinstituut,vanden,vandenheuvel,denheuvel,heuvelinstituut,denheuvelinstituut",
         "rooms": {
           "0": "Auditorium Gaston Eyskens (00.10)|auditorium|gaston|eyskens|,00.15,00.18,00.19,00.20,00.21,00.22,00.24,00.29,00.30,00.33,00.40,00.41,00.44,00.46,00.48,00.49,00.53,00.54,Seminarielokaal (00.64)|seminarielokaal|,00.71,Bibliotheek Psychologische & Pedagogische wetenschappen|bib|bibliotheek|pedagogie|pedagogische|psychologie|psychologische|wetenschappen|sciences|psychology|pedagogy|library|lib|",
           "1": "01.01,01.02,01.03,01.04,01.05,01.06,01.07,01.11,01.14,01.15,01.16,01.17,01.19,01.20,01.21,01.22,01.23,01.24,01.25,01.26,01.27,01.28,01.29,01.35,01.36,01.40,01.41,01.42,01.43,01.44,01.45,01.46,01.47,01.48,01.49,01.50,01.52,01.53,01.54,01.64,01.65,01.68,01.71",
