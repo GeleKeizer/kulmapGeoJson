@@ -376,7 +376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LAND (:andbouwinstituut)",
+        "name": "LAND (Landbouwinstituut)",
         "floors": "-1,0,1,2,3,4",
         "lonlat": "4.687702,50.863752",
         "tags": "land,landbouwkunde,bio-ingenieur,landbouwinstituut,landbouw,bio,bioscience,instituut",
