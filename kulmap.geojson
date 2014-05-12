@@ -616,7 +616,18 @@
         "name": "MTC3 (Augustinusvleugel en Grote Aula)",
         "floors": "-1,0,1,M1,2,M2,3,4,5",
         "lonlat": "4.70238983631134,50.87648403071012",
-        "tags": "mtc,maria,theresia,college,maria-theresia,grote,aula,de,augustinus,vleugel,augustinusvleugel,recht,rechten,romeins,rechtsgeschiedenis,informatica,rechtsmethodiek,icri,centrum"
+        "tags": "mtc,maria,theresia,college,maria-theresia,grote,aula,de,augustinus,vleugel,augustinusvleugel,recht,rechten,romeins,rechtsgeschiedenis,informatica,rechtsmethodiek,icri,centrum",
+        "rooms": {
+          "-1": "",
+          "0": "",
+          "1": "",
+          "M1": "",
+          "2": "",
+          "M2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        }
       },
       "geometry": {
         "type": "Polygon",
